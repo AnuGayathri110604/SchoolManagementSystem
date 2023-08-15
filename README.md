@@ -29,7 +29,7 @@ Before you begin, make sure you have the following prerequisites:
    Start by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/school-management-system.git
+  https://github.com/AnuGayathri110604/SchoolManagementSystem.git
    ```
 
 2. **Set Up the MySQL Database:**
