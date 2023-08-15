@@ -80,4 +80,4 @@ We welcome contributions to enhance the functionality or fix any issues you may 
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Feel free to copy and paste this content into your repository's README.md file on GitHub. Make sure to replace `"your-username"` with your actual GitHub username and update any other placeholders as needed. This elaborated version provides a comprehensive guide for users who visit your repository on GitHub.
+Feel free to copy and paste this content into your repository's README.md file on GitHub. Make sure to replace `"AnuGayathri110604"` with your actual GitHub username and update any other placeholders as needed. This elaborated version provides a comprehensive guide for users who visit your repository on GitHub.
